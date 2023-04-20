@@ -17,7 +17,7 @@ Bu bilgileri elde etmek için [xMistt](https://github.com/xMistt) tarafından ya
 - "language", "title" gibi özelleştirilebilir değerleri düzenleyebilirsiniz. Eğer paylaşımın bir embed içerisinde yapılmasını isterseniz, "embed" değerini `true` olarak değiştirin.
 - Not: "checkrate" değeri, kontrol sıklığını saniye cinsinden ayarlamaktadır. 10 saniyeden düşük bir değer girmemelisiniz!
 ## Örnek
-```
+```json
 {
   "last_check": "2023-04-21T00:00:00Z",
   "checkrate": 30,
