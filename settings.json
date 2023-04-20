@@ -1,0 +1,16 @@
+{
+  "last_check": "2023-04-21T00:00:00Z",
+  "checkrate": 30,
+  "webhook_url": "WEBHOOK_URL",
+  "account_id": "ACCOUNT_ID",
+  "device_id": "DEVICE_ID",
+  "secret": "SECRET",
+  "language": "tr",
+  "title": "İçerik Mağazası Sekmeleri",
+  "embed": true,
+  "embed_settings": {
+    "embed_title": "İçerik Mağazası Sekmeleri",
+    "footer": "",
+    "timestamp": true
+  }
+}
