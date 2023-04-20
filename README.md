@@ -20,8 +20,8 @@ Bu bilgileri elde etmek için [xMistt](https://github.com/xMistt) tarafından ya
 ```
 {
   "last_check": "2023-04-21T00:00:00Z",
-  "webhook_url": "WEBHOOK_URL",
   "checkrate": 30,
+  "webhook_url": "WEBHOOK_URL",
   "account_id": "ACCOUNT_ID",
   "device_id": "DEVICE_ID",
   "secret": "SECRET",
