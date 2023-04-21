@@ -35,7 +35,7 @@ Bu bilgileri elde etmek için [xMistt](https://github.com/xMistt) tarafından ya
   }
 }
 ```
-# Yardım
+# Destek
 Eğer bir problemle karşılaşıyorsanız, aşağıdaki bağlantılardan yardım alabilirsiniz.
 - [Twitter](https://twitter.com/Liqutch)
 - [Discord](https://discord.gg/nNPrQeqCyf)
